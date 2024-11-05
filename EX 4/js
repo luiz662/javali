@@ -1,0 +1,3 @@
+let nomeCompleto = prompt("Digite o seu nome completo:");
+let primeiroNome = nomeCompleto.split(" ")[0];
+console.log("O número de letras no primeiro nome é:", primeiroNome.length);

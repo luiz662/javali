@@ -1,0 +1,3 @@
+let nome = prompt("Digite seu primeiro nome:");
+console.log("Nome em maiúsculas:", nome.toUpperCase());
+console.log("Número de letras no nome:", nome.length);
